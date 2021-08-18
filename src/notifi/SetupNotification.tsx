@@ -62,6 +62,7 @@ const SetupNotification = () => {
     const notifyiOS = async (remoteMessage) => {
         const noti = remoteMessage.notification;
         // showSuccess(remoteMessage?.data);
+      console.log(remoteMessage)
         PushNotification.localNotification(
             {
                 id: 'notificationWithSound',

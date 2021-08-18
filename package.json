@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@react-native-community/push-notification-ios": "^1.8.0",
-    "@react-native-firebase/app": "^12.2.0",
-    "@react-native-firebase/messaging": "^12.2.0",
-    "@wowmaking/react-native-iron-source": "^7.0.4",
+    "@react-native-firebase/app": "^11.4.1",
+    "@react-native-firebase/messaging": "^11.4.1",
+
     "moment": "^2.29.1",
     "react": "17.0.1",
     "react-native": "0.64.1",

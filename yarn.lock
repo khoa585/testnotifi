@@ -1115,18 +1115,18 @@
   dependencies:
     invariant "^2.2.4"
 
-"@react-native-firebase/app@^12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-12.2.0.tgz#03b1e11b0d2fb90db368f2b331002e4733908951"
-  integrity sha512-3VGR5N3WtCW6/Bn/P2AqT8lHlpbUpFHpNg7gld/cN/YlRazGMl+OyMwdFXh28yE8IrWpYvcwrcE/X+O/U7AIzQ==
+"@react-native-firebase/app@^11.4.1":
+  version "11.5.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-11.5.0.tgz#cc7656d8bd580ddf63676774c5f4e73af3652c9c"
+  integrity sha512-Jz5CBhqkybxHjTFr5V0K+Jq2YivzPbu9exSze61/z1zSaIfBhR4G38wmHk44VWAl+PEX8GaYy9yfT69tLiCERA==
   dependencies:
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
-"@react-native-firebase/messaging@^12.2.0":
-  version "12.2.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/messaging/-/messaging-12.2.0.tgz#379b135e0ee111208fe3676731573d6c3cec8960"
-  integrity sha512-oAGuqBGh/a9CFOWYkEgP6/Yny3VWJh9QbE8xm4TAdj7rEYQCWznG3XBhCtq9Tu3UaW2KuRw8I9orNF/80/Bnpg==
+"@react-native-firebase/messaging@^11.4.1":
+  version "11.5.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/messaging/-/messaging-11.5.0.tgz#724a65683a23e40fd4a36553198f27227cfe78fd"
+  integrity sha512-bjsoJByiNtikNLCf5RMmUdIj3uH8Uf0eeyM9PdqfNRB1mtVaYrU8AmXnzbSd5SqJ/sxqwyZVuxzWNEJrcOnhZw==
 
 "@react-native/assets@1.0.0":
   version "1.0.0"
@@ -1380,11 +1380,6 @@
   integrity sha512-9JgC82AaQeglebjZMgYR5wgmfUdUc+EitGUUMW8u2nDckaeimzW+VsoLV6FoimPv2id3VQzfjwBxEMVz08ameQ==
   dependencies:
     eslint-visitor-keys "^1.1.0"
-
-"@wowmaking/react-native-iron-source@^7.0.4":
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/@wowmaking/react-native-iron-source/-/react-native-iron-source-7.0.4.tgz#f63f39a815dc13dae124398f9475ca1ea1f2d57b"
-  integrity sha512-2JEs3/P6MD7BTMIMA6TouTYpkiIVyeLjzpvz8HkVs7Q8xDtAJb3QLTmMcaNwGADfgHfky13KvY5ggbo3MWCg9g==
 
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.5"
